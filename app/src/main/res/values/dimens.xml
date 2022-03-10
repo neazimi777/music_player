@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding8dp">8dp</dimen>
+    <dimen name="noMusicTextSize">18sp</dimen>
+    <dimen name="margin4dp">4dp</dimen>
+    <dimen name="margin32dp">32dp</dimen>
+
+
+</resources>
